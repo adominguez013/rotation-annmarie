@@ -5,9 +5,9 @@
 ### Written using python using simple strings and an infinite loop
 
 python 
-line1 = "Hold fast to dreams"
-line2 = "For when dreams go"
-line3 = "Life is a barren field"
+line1 = "Hold fast to dreams",
+line2 = "For when dreams go",
+line3 = "Life is a barren field",
 line4 = "Frozen with snow."
 
 poem = "\n" .join([line1, line2, line3, lin4])
