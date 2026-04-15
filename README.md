@@ -10,7 +10,7 @@ line2 = "For when dreams go"
 line3 = "Life is a barren field"
 line4 = "Frozen with snow."
 
-poem = "\n" .join([line1, line2, line3, lin4])
+poem = "\n" .join([line1, line2, line3, line4])
 
 #Addition of this loop will print endless copies of this poem 
 
