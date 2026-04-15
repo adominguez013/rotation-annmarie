@@ -1,8 +1,8 @@
 # rotation-annmarie
-# Follow my progress as I learn Linux/Unix/Python in the HEART-GeN Lab :D
+## Follow my progress as I learn Linux/Unix/Python in the HEART-GeN Lab :D
 
-## Dreams by Langston Hughes
-### Written using python using simple strings and an infinite loop
+### Dreams by Langston Hughes
+#### Written using python using simple strings and an infinite loop
 
 python 
 line1 = "Hold fast to dreams"
