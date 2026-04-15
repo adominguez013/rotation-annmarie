@@ -5,6 +5,7 @@
 #### Written using python using simple strings and an infinite loop
 
 python 
+
 line1 = "Hold fast to dreams"
 line2 = "For when dreams go"
 line3 = "Life is a barren field"
