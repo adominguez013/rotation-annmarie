@@ -2,7 +2,7 @@
 ## Follow my progress as I learn Linux/Unix/Python in the HEART-GeN Lab :D
 
 ### *Dreams* by Langston Hughes
-#### Written using python using simple strings and an infinite loop
+###### Written using python using simple strings and an infinite loop
 
 python 
 
